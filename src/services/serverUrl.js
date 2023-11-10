@@ -1,3 +1,3 @@
-const serverURL = 'http://localhost:5000'
+const serverURL = 'https://mediaplayerbackend.onrender.com/'
 
 
